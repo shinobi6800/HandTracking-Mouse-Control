@@ -1,0 +1,12 @@
+# Ignore virtual environment
+handtrack-env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+.env
