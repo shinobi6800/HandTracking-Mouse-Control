@@ -1,4 +1,5 @@
 # 🖐️ Hand Tracking Mouse Control with Python
+#🐭
 
 Control your mouse using your **index finger** in front of a webcam using Python, OpenCV, and MediaPipe.
 
